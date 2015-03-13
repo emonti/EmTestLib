@@ -20,8 +20,8 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/<GITHUB_USERNAME>/EmTestLib"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
-  s.author           = { "Eric Monti" => "em@squareup.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/EmTestLib.git", :tag => s.version.to_s }
+  s.author           = { "Eric Monti" => "esmonti@gmail.com" }
+  s.source           = { :git => "https://github.com/emonti/EmTestLib.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '7.0'
