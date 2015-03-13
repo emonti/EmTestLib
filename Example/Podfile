@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'EmTestLib', :exclusive => true do
+  pod "EmTestLib", :path => "../"
+
+  
+end
