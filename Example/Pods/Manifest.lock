@@ -1,0 +1,14 @@
+PODS:
+  - EmTestLib (0.1.0)
+
+DEPENDENCIES:
+  - EmTestLib (from `../`)
+
+EXTERNAL SOURCES:
+  EmTestLib:
+    :path: ../
+
+SPEC CHECKSUMS:
+  EmTestLib: a943f6e89753d8a70d74b5134785f49060f26607
+
+COCOAPODS: 0.36.0
